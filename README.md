@@ -1,6 +1,6 @@
 # Jardim das Toupeiras
 
-![til](./.github/gitfav.gif)
+![til](./.github/gitFav.gif)
 
 ## About
 
