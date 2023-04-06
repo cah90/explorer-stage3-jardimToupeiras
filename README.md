@@ -1,5 +1,7 @@
 # Jardim das Toupeiras
 
+![til](./.github/gitfav.gif)
+
 ## About
 
 This project is part of the [Rocketseat](https://www.rocketseat.com.br/) program for learning how to code.
