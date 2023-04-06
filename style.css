@@ -21,9 +21,14 @@ body {
 }
 
 .toupeira {
+	background-image: url(./assets/toupeira6.svg);
 	width: 221.81px;
 	height: 168.11px;
-	background-image: url(./assets/toupeira6.svg);
+
+	cursor: pointer;
+}
+
+.toupeira:hover {
 	animation: toupeira 1s infinite;
 }
 
